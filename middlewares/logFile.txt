@@ -1,0 +1,7 @@
+New user Authenticated!
+Username: Kiruthiks
+Password: Kiruthi@2003
+URL: /api/checkLoggerData/Kiruthiks/Kiruthi@2003
+Date: 11/7/2024, 9:45:27 am
+Method Type: POST
+
